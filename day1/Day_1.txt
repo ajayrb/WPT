@@ -1,0 +1,246 @@
+WPT :
+	Web Programming Technologies
+		
+	  Traditional approach for learning WPT:
+		
+		1.HTML Programming
+		2.CSS
+		3.Javascript Programming
+		4.jQuery
+		5.Bootstrap
+		6.Node JS
+		7.React JS
+
+	To Develop and build online web Applications
+
+	FullStack Application Development:
+
+
+			LAMP FullStack:
+			.NET Fullstack:
+			Java Fullstack:
+			Javascript Fullstack:
+			Go Fullstack
+			Python Fullstack
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+	
+Javascript Fullstack:
+
+	language: Javascript
+
+	MERN Fullstack		MEAN Fullstack		MEVN FullStack
+
+	React: MVC framework
+
+	in case of  Javascript Fullstack:
+
+		WebServers are Deveoped using Node JS
+		HTTPWebServer:---------using Node JS , programming using Javascript
+		Database Connectivity:-----DB Connectors 
+
+
+Java Fullstack:
+
+	Language: Java
+	database : oracle, mysql, sql server
+	database Connectivity:
+		   JDBC, Hibernate (ORM)
+	Web	 : JSP Servlet, Spring MVC, Spring Boot (UI), SOAP
+		   HTML, CSS, jQuery, bootstrap----------Core Classical Web Technnologies
+		   React or Angular, or Vue
+		   Tomcat
+	Runtime	 : Java Runtime (JVM)
+
+
+.NET Fullstack:
+	Language: C#
+	Database: oracle, Sql Server, mysql
+	database Connectivity:ado.net , Entity Framework (ORM)
+	Runtime : CLR (.net runtime)-----Dotnet core  / Dotnet framework
+	Web	: asp.net MVC asp   + IIS
+		   HTML, CSS, jQuery, bootstrap---------------Core Classical Web Technnologies
+		   React or Angular, or Vue
+
+MVC: Model View Controller Design Pattern
+
+	      
+LAMP FullStack:
+
+		Operating System :Linux
+		 Web Server:	  Apache 
+		 Database:	  MySQL 
+		 Web Server:		  PHP Web pages ( Hyptertext Preprocessor)
+		 Database connectivity: using php function:
+
+
+Web Server:
+	a dedicated Program running continously on machine and capable of 
+	hosting more than on web applications
+
+IIS server
+TOMCAT 
+nginx
+WebLogic
+GlassFish, etc.
+
+
+Web Programming:
+			
+			WebPage
+				Static Webpage / Dynamic Web Page
+			Web Appication (WebSite)
+					Static Web Application/ Dynamic Web Application
+					Multi Web Page (MPA)
+					Single Page Application (SPA)
+			Web Server
+			Web Service (REST API)
+			Database Connectivity: ODBC ( Open Database Connectivity)						
+____________________________________________________________________________________________________________________________
+
+
+To Develop and build online web Applications
+
+	FullStack Application Development:
+	
+Javascript Fullstack:
+
+	language: Javascript
+
+	MERN Fullstack		MEAN Fullstack		MEVN FullStack
+	React:MVC
+
+	in case of  Javascript Fullstack:
+
+		WebServers are Deveoped using Node JS
+		HTTPWebServer:---------using Node JS , programming using Javascript
+		Database Connectivity:-----DB Connectors 
+
+
+	WPT: MERN Fullstack:
+
+		Fullstack Developer:
+
+		Language:			 Javascript------------------Syntax
+		Runtime : 			 Node JS---------------------Application execution using engine
+		Server Programming:		 Express---------------------Web Framework
+		Dynamic Web UI:			 React JS, JQuery---------------Dynamic Web Pages (DOM)
+		Responsive UI:			 Bootstrap Framework---------Responsive UI Framework
+		Classical Web Tech.		 HTML, CSS-------------------Web Content UI Elements
+		Database Connectivity:		 DB Connectors----------------ODBC connectors
+						 mysql connectors
+						 mongoose connector	 etc.
+_________________________________________________________________________________________________________________________________
+	Fullstack Developer:
+				    Front End Development (UI)
+				    Server Side Programming (Middleware Development) ( Core Server Side )
+				    BackEnd Development  (Backend , Database Developer)
+				
+				    MERN
+				    MEAN
+				    MEVN
+				    Java
+				    .NET
+				    LAMP
+				    Python
+				    Go 
+
+
+
+MERN FullStack:
+
+		What will be starting Point for Web Programming learning ?
+		
+		Hello World: Program
+			
+			1.Node JS-------------------------------------Core Execution Platform
+			2.Javascript Programming----------------------Programming concepts
+			3.Database Connectivity-----------------------Database Connectivity
+			4.HTML----------------------------------------Presentation
+		        5.JQuery--------------------------------------Dynamic UI Presentation
+			6.React JS------------------------------------Javascript Library for Dynamic Web Appln
+			7.CSS    -------------------------------------Visual Appearance
+			8.Bootstrap-----------------------------------Responsive UI Framework:
+
+
+
+Getting Started:
+		1. Write a simple Helloworld Application
+
+		Tool: 		Visual Code------------Text Editor
+		Lang: 		Javascript
+		Runtime:	Node JS
+
+		a.Create a folder HelloWorldApp 
+		b.Add new hello.js file
+		c.Write simple source code to display HelloWorld message
+		d.Run hello.js file using runtime engine NodeJS 
+
+
+
+Node.js is an open-source,
+	   cross-platform, 
+	   back-end JavaScript runtime environment 
+		that runs on the V8 engine and executes JavaScript code outside a web browser.
+
+
+
+
+
+sir could u explain even in java FullStac why we need to  learn JavaScript.
+
+
+Why are we learning Node JS, and Javascript as part of Web programming
+
+
+
+Web programming:
+	
+	Writing server side Code
+	Writing Browserless code
+	 
+
+		The code which will wait for Client request
+		The code which will perform core task at server
+		The code which will perform some background work]		
+		The code which will execute some algorithm agains data collection
+		The code which will generate response after processing incomming request
+		The code which will send response to calling client Application
+		
+
+
+
+
+
+Web Technology
+
+
+Client Side Technologies					Server Side Technologies
+
+								 Core Application Logic
+Front End Application Logic					 Bussiness Logic
+UI Presenation
+HTML, CSS, Bootstrap						 Node JS, Express JS
+Javascript: Validation, exteranl data Access			 Javascript :Data Acces Logic, 
+									     Request Processing logic,
+									     Response Generation logic,
+									     Session State Management logic
+									     Authentication , Authorization logic
+									     Server Listening Logic,etc
+
+
+
+
+Server side code is dependent on event driven mechanism
+Timer job definiation
+
+
+
+
+
+
+
+
+
+
+
